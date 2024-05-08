@@ -5,7 +5,7 @@
 //Separe la logica de calcular la potencia utilizando metodos
 // 3^4=3*3*3*3=81
 
-//return, for, question int
+//return, for, question int, funcion
 // base = numero a multiplicar
 // exponente = cantidad de veces que se multiplica
 
